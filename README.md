@@ -29,4 +29,4 @@ This project focuses on predicting credit card default risk and segmenting custo
 - Enhances risk monitoring and segmentation
 
 ## 🔗 Portfolio
-(Add your portfolio link here)
+[(Add your portfolio link here)](https://kagiso228.github.io/kagisomosehla.github.io/)
