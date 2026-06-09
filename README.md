@@ -21,7 +21,7 @@ This project focuses on predicting credit card default risk and segmenting custo
 - Improved detection of high-risk customers in an imbalanced dataset
 
 ##  Dashboard
-![Dashboard](dashboard/dashboard_credit-card-dashboard.png)
+![Dashboard](credit-card-dashboard.png)
 
 ##  Business Impact
 - Identifies high-risk customers early
